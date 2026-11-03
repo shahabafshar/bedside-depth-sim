@@ -13,7 +13,7 @@ Differences from the files as first rendered, all made for the release:
   - two comments no longer refer to the project's internal notes.
 - **Checksums:** `metadata/SHA256SUMS.txt` is computed on the released files. The checksums of the key frame images therefore differ from those of the original renders.
 
-Also in this version: the AI-generated part (52 videos and 12 start pictures), released byte for byte as made, under its own licence (`LICENSE-GENERATED`); and picture rules v1 and v2, whose results on those videos are given.
+Also in this version: the AI-generated part (52 videos and 12 start pictures), released byte for byte as made; and picture rules v1 and v2, whose results on those videos are given.
 
 Not included in this version:
 - the Blender scene files (they hold local file paths; `code/render/` rebuilds them);

@@ -31,4 +31,4 @@ abstract: >-
   calibration; 22 clips also have the empty room's depth. Includes locked baseline detection rules, their
   results, and the Blender pipeline that made the clips. A second part holds 52 AI-generated hospital
   videos from the same camera position (Wan 2.2, Veo 3.1 Fast, Seedance 2.0) and the 12 generated start
-  pictures they begin from (Seedream 5.0 Pro), released as made under their own licence.
+  pictures they begin from (Seedream 5.0 Pro), released as made.

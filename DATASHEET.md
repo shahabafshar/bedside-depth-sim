@@ -147,8 +147,8 @@ The clips are few, from one room and two bodies, with ideal depth.
 - **Code and documentation:** https://github.com/shahabafshar/bedside-depth-sim.
 
 **Licence:**
-- **3D simulation data:** Creative Commons Attribution 4.0 International.
-- **AI-generated part:** its own licence (`LICENSE-GENERATED`). Any use with attribution, provided the files stay marked as AI-generated and are not used to train or improve image or video generation models. The services and models that made them have their own terms; none of them claims ownership of the outputs.
+- **Data, both parts:** Creative Commons Attribution 4.0 International (`LICENSE`).
+- **AI-generated part:** also Creative Commons Attribution 4.0 International. Attribution should say that the files are AI-generated and name the model that made each one (`metadata/generated_videos.csv`). The services and models that made them have their own terms; none of them claims ownership of the outputs.
 - **Code:** Apache License 2.0, except the Blender scripts in `code/render/`, which are under the GNU GPL 3.0 or later because they use Blender's Python API.
 - **Assets used:** the MakeHuman assets are CC0. The renders were made with Blender, whose licence page states: "What you create with Blender is your sole property."
 
