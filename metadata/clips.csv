@@ -1,0 +1,63 @@
+clip_id,set,scenario_id,kind,expected_alerts,alerts_judged,body,second_person_body,camera_position,camera_label,camera_height_m,camera_pitch_down_deg,fps,frames,duration_s,events,has_background_depth
+R01,design,E1,event,sit_up,sit_up stand_up fall,A,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,91,6.0667,E1 1.133 to 3.600 s,0
+R02,design,E1,event,sit_up,sit_up stand_up fall,A,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,91,6.0667,E1 1.133 to 3.600 s,0
+R03,design,E1,event,sit_up,sit_up stand_up fall,A,,foot_centre_2.6,"foot wall, centred, 2.6 m",2.6,37.317,15,91,6.0667,E1 1.133 to 3.600 s,0
+R04,design,E4,event,sit_up stand_up,sit_up stand_up fall,A,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,151,10.0667,E1 0.733 to 2.867 s; E2 2.800 to 3.467 s; E3 5.333 to 7.400 s; E4 5.333 to 8.533 s,0
+R05,design,E4,event,sit_up stand_up,sit_up stand_up fall,A,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,151,10.0667,E1 0.733 to 2.867 s; E2 2.800 to 3.467 s; E3 5.333 to 7.400 s; E4 5.333 to 8.533 s,0
+R06,design,E4,event,sit_up stand_up,sit_up stand_up fall,A,,foot_centre_2.6,"foot wall, centred, 2.6 m",2.6,37.317,15,151,10.0667,E1 0.733 to 2.867 s; E2 2.800 to 3.467 s; E3 5.333 to 7.400 s; E4 5.333 to 8.533 s,0
+R07,design,E6,event,fall,sit_up stand_up fall,A,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,106,7.0667,E6 2.000 to 5.333 s,0
+R08,design,E6,event,fall,sit_up stand_up fall,A,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,106,7.0667,E6 2.000 to 5.333 s,0
+R09,design,E6,event,fall,sit_up stand_up fall,A,,foot_centre_2.6,"foot wall, centred, 2.6 m",2.6,37.317,15,106,7.0667,E6 2.000 to 5.333 s,0
+R10,design,L1,look-alike,none,sit_up stand_up fall,A,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,91,6.0667,,0
+R11,design,E1,event,sit_up,sit_up stand_up fall,A,,foot_left_0.5_2.2,"foot wall, 0.5 m left of the bed's centre line (as seen from the camera), 2.2 m",2.2,30.994,15,91,6.0667,E1 1.133 to 3.600 s,0
+R12,design,E1,event,sit_up,sit_up stand_up fall,A,,foot_right_0.5_2.2,"foot wall, 0.5 m right of the bed's centre line (as seen from the camera), 2.2 m",2.2,30.994,15,91,6.0667,E1 1.133 to 3.600 s,0
+R13,design,E1,event,sit_up,sit_up stand_up fall,A,,side_1.0,"side view like GMDCSA-24: 1.0 m high, 3 m from the bed's long side, level",1.0,-0.0,15,91,6.0667,E1 1.133 to 3.600 s,0
+R14,design,E1,event,sit_up,sit_up stand_up fall,A,,corner_2.6,"high room corner like CAUCAFall: 2.6 m, foot-end corner away from the exit side",2.6,31.625,15,91,6.0667,E1 1.133 to 3.600 s,0
+R15,design,E4,event,sit_up stand_up,sit_up stand_up fall,A,,foot_left_0.5_2.2,"foot wall, 0.5 m left of the bed's centre line (as seen from the camera), 2.2 m",2.2,30.994,15,151,10.0667,E1 0.733 to 2.867 s; E2 2.800 to 3.467 s; E3 5.333 to 7.400 s; E4 5.333 to 8.533 s,0
+R16,design,E4,event,sit_up stand_up,sit_up stand_up fall,A,,foot_right_0.5_2.2,"foot wall, 0.5 m right of the bed's centre line (as seen from the camera), 2.2 m",2.2,30.994,15,151,10.0667,E1 0.733 to 2.867 s; E2 2.800 to 3.467 s; E3 5.333 to 7.400 s; E4 5.333 to 8.533 s,0
+R17,design,E4,event,sit_up stand_up,sit_up stand_up fall,A,,side_1.0,"side view like GMDCSA-24: 1.0 m high, 3 m from the bed's long side, level",1.0,-0.0,15,151,10.0667,E1 0.733 to 2.867 s; E2 2.800 to 3.467 s; E3 5.333 to 7.400 s; E4 5.333 to 8.533 s,0
+R18,design,E4,event,sit_up stand_up,sit_up stand_up fall,A,,corner_2.6,"high room corner like CAUCAFall: 2.6 m, foot-end corner away from the exit side",2.6,31.625,15,151,10.0667,E1 0.733 to 2.867 s; E2 2.800 to 3.467 s; E3 5.333 to 7.400 s; E4 5.333 to 8.533 s,0
+R19,design,E6,event,fall,sit_up stand_up fall,A,,foot_left_0.5_2.2,"foot wall, 0.5 m left of the bed's centre line (as seen from the camera), 2.2 m",2.2,30.994,15,106,7.0667,E6 2.000 to 5.333 s,0
+R20,design,E6,event,fall,sit_up stand_up fall,A,,foot_right_0.5_2.2,"foot wall, 0.5 m right of the bed's centre line (as seen from the camera), 2.2 m",2.2,30.994,15,106,7.0667,E6 2.000 to 5.333 s,0
+R21,design,E6,event,fall,sit_up stand_up fall,A,,side_1.0,"side view like GMDCSA-24: 1.0 m high, 3 m from the bed's long side, level",1.0,-0.0,15,106,7.0667,E6 2.000 to 5.333 s,0
+R22,design,E6,event,fall,sit_up stand_up fall,A,,corner_2.6,"high room corner like CAUCAFall: 2.6 m, foot-end corner away from the exit side",2.6,31.625,15,106,7.0667,E6 2.000 to 5.333 s,0
+R23,fresh,E5,event,fall stand_up,sit_up stand_up fall,A,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,121,8.0667,E5 4.400 to 7.533 s,0
+R24,fresh,E5,event,fall stand_up,sit_up stand_up fall,A,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,121,8.0667,E5 4.400 to 7.533 s,0
+R25,fresh,E7,event,fall,sit_up stand_up fall,A,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,91,6.0667,E7 1.600 to 4.733 s,0
+R26,fresh,E7,event,fall,sit_up stand_up fall,A,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,91,6.0667,E7 1.600 to 4.733 s,0
+R27,fresh,L7,look-alike,none,sit_up stand_up fall,A,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,91,6.0667,,0
+R28,fresh,L7,look-alike,none,sit_up stand_up fall,A,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,91,6.0667,,0
+R29,fresh,L9,look-alike,none,sit_up stand_up fall,A,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,76,5.0667,,0
+R30,fresh,L9,look-alike,none,sit_up stand_up fall,A,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,76,5.0667,,0
+R31,fresh,E5,event,fall stand_up,sit_up stand_up fall,B,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,121,8.0667,E5 4.400 to 7.533 s,0
+R32,fresh,E5,event,fall stand_up,sit_up stand_up fall,B,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,121,8.0667,E5 4.400 to 7.533 s,0
+R33,fresh,E7,event,fall,sit_up stand_up fall,B,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,91,6.0667,E7 1.600 to 4.733 s,0
+R34,fresh,E7,event,fall,sit_up stand_up fall,B,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,91,6.0667,E7 1.600 to 4.733 s,0
+R35,fresh,E6,event,fall,sit_up stand_up fall,B,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,91,6.0667,E6 1.000 to 4.333 s,0
+R36,fresh,E6,event,fall,sit_up stand_up fall,B,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,91,6.0667,E6 1.000 to 4.333 s,0
+R37,fresh,L7,look-alike,none,sit_up stand_up fall,B,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,91,6.0667,,0
+R38,fresh,L7,look-alike,none,sit_up stand_up fall,B,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,91,6.0667,,0
+R39,fresh,L9,look-alike,none,sit_up stand_up fall,B,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,76,5.0667,,0
+R40,fresh,L9,look-alike,none,sit_up stand_up fall,B,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,76,5.0667,,0
+R41,floor_check,F1,event,fall,fall,A,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,151,10.0667,F1 5.467 to 8.667 s,1
+R42,floor_check,F1,event,fall,fall,B,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,151,10.0667,F1 5.467 to 8.667 s,1
+R43,floor_check,F2,event,fall,fall,A,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,99,6.6,F2 2.133 to 5.133 s,1
+R44,floor_check,F2,event,fall,fall,B,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,99,6.6,F2 2.133 to 5.133 s,1
+R45,floor_check,F3,event,fall,fall,A,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,91,6.0667,F3 1.000 to 4.267 s,1
+R46,floor_check,F3,event,fall,fall,B,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,91,6.0667,F3 1.000 to 4.267 s,1
+R47,floor_check,F4,event,fall,fall,A,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,99,6.6,F4 2.600 to 5.267 s,1
+R48,floor_check,F4,event,fall,fall,B,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,99,6.6,F4 2.600 to 5.267 s,1
+R49,floor_check,F5,event,fall,fall,A,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,91,6.0667,F5 1.000 to 4.133 s,1
+R50,floor_check,F5,event,fall,fall,B,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,91,6.0667,F5 1.000 to 4.133 s,1
+R51,floor_check,L10,look-alike,none,fall,B,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,106,7.0667,,1
+R52,floor_check,L10,look-alike,none,fall,B,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,106,7.0667,,1
+R53,floor_check,L11,look-alike,none,fall,B,A,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,149,9.9333,,1
+R54,floor_check,L11,look-alike,none,fall,B,A,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,149,9.9333,,1
+R55,floor_check,L12,look-alike,none,fall,A,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,203,13.5333,,1
+R56,floor_check,L12,look-alike,none,fall,B,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,203,13.5333,,1
+R57,floor_check,L13,look-alike,none,fall,B,A,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,195,13.0,,1
+R58,floor_check,L13,look-alike,none,fall,B,A,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,195,13.0,,1
+R59,floor_check,L14,look-alike,none,fall,A,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,121,8.0667,,1
+R60,floor_check,L14,look-alike,none,fall,B,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,121,8.0667,,1
+R61,floor_check,L15,look-alike,none,fall,A,,foot_centre_2.2,"foot wall, centred, 2.2 m",2.2,31.438,15,187,12.4667,,1
+R62,floor_check,L15,look-alike,none,fall,B,,foot_centre_1.8,"foot wall, centred, 1.8 m",1.8,24.72,15,195,13.0,,1

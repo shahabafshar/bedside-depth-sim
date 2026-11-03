@@ -1,0 +1,41 @@
+clip,scenario,camera,height_m,expected,v1_colour,v2_colour,v2_grey,v3,v4,set,body,v2_colour_correct,v3_correct,v4_correct,v4_delay_sit_up_s,v4_delay_stand_up_s,v4_delay_fall_s,v3_states,depth_found_share,trunk_deg_first_s
+R01,E1,"foot wall, centred, 1.8 m",1.8,sit_up,none,none,none,sit_up,sit_up,design,A,False,True,True,0.8,,,lying@0.0 > sitting@1.9,0.99,89.1
+R02,E1,"foot wall, centred, 2.2 m",2.2,sit_up,none,none,none,sit_up,sit_up,design,A,False,True,True,0.8,,,lying@0.0 > sitting@1.9,1.0,89.3
+R03,E1,"foot wall, centred, 2.6 m",2.6,sit_up,none,none,none,sit_up,sit_up,design,A,False,True,True,0.8,,,lying@0.0 > sitting@1.9,1.0,88.6
+R04,E4,"foot wall, centred, 1.8 m",1.8,sit_up stand_up,none,none,stand_up,sit_up stand_up,sit_up stand_up,design,A,False,True,True,0.67,0.07,,lying@0.0 > sitting@1.4 > standing@5.4,1.0,90.6
+R05,E4,"foot wall, centred, 2.2 m",2.2,sit_up stand_up,none,none,none,sit_up stand_up,sit_up stand_up,design,A,False,True,True,0.67,0.13,,lying@0.0 > sitting@1.4 > standing@5.5,1.0,88.9
+R06,E4,"foot wall, centred, 2.6 m",2.6,sit_up stand_up,none,none,none,sit_up stand_up,sit_up stand_up,design,A,False,True,True,0.67,0.2,,lying@0.0 > sitting@1.4 > standing@5.5,1.0,88.7
+R07,E6,"foot wall, centred, 1.8 m",1.8,fall,none,none,fall,none,fall,design,A,False,False,True,,,0.93,lying@0.0 > lying@2.4,0.79,91.1
+R08,E6,"foot wall, centred, 2.2 m",2.2,fall,none,none,none,none,fall,design,A,False,False,True,,,0.93,lying@0.0,0.92,88.5
+R09,E6,"foot wall, centred, 2.6 m",2.6,fall,none,none,none,none,fall,design,A,False,False,True,,,0.93,lying@0.0,0.92,89.8
+R10,L1,"foot wall, centred, 2.2 m",2.2,none,none,none,none,none,none,design,A,True,True,True,,,,lying@0.0,0.31,89.3
+R11,E1,"foot wall, 0.5 m left of the bed's centre line (as seen from the camera), 2.2 m",2.2,sit_up,none,none,none,sit_up,sit_up,design,A,False,True,True,0.8,,,lying@0.0 > sitting@1.9,1.0,90.5
+R12,E1,"foot wall, 0.5 m right of the bed's centre line (as seen from the camera), 2.2 m",2.2,sit_up,none,none,none,sit_up,sit_up,design,A,False,True,True,0.8,,,lying@0.0 > sitting@1.9,1.0,89.4
+R13,E1,"side view like GMDCSA-24: 1.0 m high, 3 m from the bed's long side, level",1.0,sit_up,sit_up,sit_up,none,none,none,design,A,True,False,False,,,,sitting@1.9,0.09,
+R14,E1,"high room corner like CAUCAFall: 2.6 m, foot-end corner away from the exit side",2.6,sit_up,none,none,none,none,none,design,A,False,False,False,,,,sitting@1.9,0.59,
+R15,E4,"foot wall, 0.5 m left of the bed's centre line (as seen from the camera), 2.2 m",2.2,sit_up stand_up,none,none,none,sit_up stand_up,sit_up stand_up,design,A,False,True,True,0.67,0.07,,lying@0.0 > sitting@1.4 > standing@5.4,1.0,91.0
+R16,E4,"foot wall, 0.5 m right of the bed's centre line (as seen from the camera), 2.2 m",2.2,sit_up stand_up,none,none,none,sit_up stand_up,sit_up stand_up,design,A,False,True,True,0.67,0.33,,lying@0.0 > sitting@1.4 > standing@5.7,1.0,89.2
+R17,E4,"side view like GMDCSA-24: 1.0 m high, 3 m from the bed's long side, level",1.0,sit_up stand_up,sit_up stand_up,sit_up stand_up,stand_up,stand_up,stand_up,design,A,True,False,False,,0.13,,sitting@2.7 > standing@5.5,0.74,
+R18,E4,"high room corner like CAUCAFall: 2.6 m, foot-end corner away from the exit side",2.6,sit_up stand_up,sit_up stand_up,sit_up stand_up,none,none,none,design,A,True,False,False,,,,sitting@1.3 > sitting@2.5,0.26,
+R19,E6,"foot wall, 0.5 m left of the bed's centre line (as seen from the camera), 2.2 m",2.2,fall,none,none,none,none,fall,design,A,False,False,True,,,0.93,lying@0.0,0.94,89.3
+R20,E6,"foot wall, 0.5 m right of the bed's centre line (as seen from the camera), 2.2 m",2.2,fall,none,none,none,none,fall,design,A,False,False,True,,,0.93,lying@0.0 > lying@2.1,0.86,90.3
+R21,E6,"side view like GMDCSA-24: 1.0 m high, 3 m from the bed's long side, level",1.0,fall,fall,fall,none,none,none,design,A,True,False,False,,,,lying@1.1 > lying@2.7,0.62,
+R22,E6,"high room corner like CAUCAFall: 2.6 m, foot-end corner away from the exit side",2.6,fall,none,none,none,none,none,design,A,False,False,False,,,,,0.0,
+R23,E5,"foot wall, centred, 2.2 m",2.2,fall stand_up,none,none,none,stand_up,fall stand_up,fresh,A,False,False,True,,0.13,0.8,sitting@0.0 > standing@2.5 > lying@4.8,0.73,13.6
+R24,E5,"foot wall, centred, 1.8 m",1.8,fall stand_up,none,none,stand_up,stand_up,stand_up,fresh,A,False,False,False,,0.07,,sitting@0.0 > standing@2.4,0.65,2.6
+R25,E7,"foot wall, centred, 2.2 m",2.2,fall,none,none,none,none,none,fresh,A,False,False,False,,,,sitting@0.0 > lying@1.6,0.41,13.6
+R26,E7,"foot wall, centred, 1.8 m",1.8,fall,none,none,none,none,none,fresh,A,False,False,False,,,,sitting@0.0 > lying@1.7,0.4,2.6
+R27,L7,"foot wall, centred, 2.2 m",2.2,none,stand_up,stand_up,stand_up,none,none,fresh,A,False,True,True,,,,sitting@0.0 > lying@3.4,1.0,13.6
+R28,L7,"foot wall, centred, 1.8 m",1.8,none,none,none,none,none,none,fresh,A,True,True,True,,,,sitting@0.0 > lying@3.4,0.84,2.6
+R29,L9,"foot wall, centred, 2.2 m",2.2,none,stand_up,stand_up,none,none,none,fresh,A,False,True,True,,,,standing@0.0 > sitting@1.5,1.0,8.8
+R30,L9,"foot wall, centred, 1.8 m",1.8,none,none,none,none,none,none,fresh,A,True,True,True,,,,standing@0.0 > sitting@1.5,1.0,7.3
+R31,E5,"foot wall, centred, 2.2 m",2.2,fall stand_up,none,none,none,stand_up,stand_up,fresh,B,False,False,False,,0.07,,sitting@0.0 > standing@2.6,0.61,6.1
+R32,E5,"foot wall, centred, 1.8 m",1.8,fall stand_up,none,none,none,stand_up,stand_up,fresh,B,False,False,False,,-0.07,,sitting@0.0 > standing@2.5,0.6,4.9
+R33,E7,"foot wall, centred, 2.2 m",2.2,fall,none,none,none,none,none,fresh,B,False,False,False,,,,sitting@0.0 > lying@1.6,0.38,7.4
+R34,E7,"foot wall, centred, 1.8 m",1.8,fall,none,none,none,none,none,fresh,B,False,False,False,,,,sitting@0.0 > lying@1.6,0.4,4.9
+R35,E6,"foot wall, centred, 2.2 m",2.2,fall,fall,fall,none,none,fall,fresh,B,True,False,True,,,0.87,lying@0.7,0.7,
+R36,E6,"foot wall, centred, 1.8 m",1.8,fall,fall,fall,none,none,none,fresh,B,True,False,False,,,,,0.01,
+R37,L7,"foot wall, centred, 2.2 m",2.2,none,stand_up,stand_up,none,none,none,fresh,B,False,True,True,,,,sitting@0.0 > lying@3.3,0.84,6.1
+R38,L7,"foot wall, centred, 1.8 m",1.8,none,stand_up,stand_up,none,none,none,fresh,B,False,True,True,,,,sitting@0.0 > lying@3.1,0.66,4.9
+R39,L9,"foot wall, centred, 2.2 m",2.2,none,stand_up,stand_up,none,none,none,fresh,B,False,True,True,,,,standing@0.0 > sitting@1.5,1.0,10.5
+R40,L9,"foot wall, centred, 1.8 m",1.8,none,stand_up,stand_up,none,none,none,fresh,B,False,True,True,,,,standing@0.0 > sitting@1.5,1.0,9.5

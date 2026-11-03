@@ -1,0 +1,12 @@
+{
+ "version": "v3",
+ "frozen_utc": "2026-10-19T21:08:42+00:00",
+ "note": "Frozen before any rendered clip was scored with v1, v2 or v3.",
+ "sha256": {
+  "rules_v3.md": "df377d04b0cc6e5005498e0869f6752764990f7fcb40638048c33718fec8ddd3",
+  "rules_v3.json": "d252805accd07c94eaee857dc14678722b71625776d30551fd2eeb620e47b21f",
+  "posture_rules_v3.py": "7b68d076f4a3f0d06671c9769674c3d14bf728e263cb939acea650fc8ec81617",
+  "test_posture_rules_v3.py": "39f0a9923154ff46560c7d3b85227276f0b2102b56b4c415b5fbf6bf1a0f343f",
+  "posture_rules.py": "3cf9e59dbe46645a71c0a5532da5c39f9648e9eaec83c5e17f125509a3859716"
+ }
+}

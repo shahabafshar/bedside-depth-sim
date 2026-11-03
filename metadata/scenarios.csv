@@ -1,0 +1,20 @@
+scenario_id,kind,name,event_start,event_end,clips
+E1,event,Sit up in bed,trunk leaves the mattress,trunk upright and held for 1 s,R01 R02 R03 R11 R12 R13 R14
+E4,event,Leave the bed and walk away,hips leave the mattress,person leaves the bed area,R04 R05 R06 R15 R16 R17 R18
+E5,event,Fall while getting out of bed,first loss of balance after standing,body on the floor and still for 2 s,R23 R24 R31 R32
+E6,event,Slide or roll out of bed to the floor,body starts to leave the mattress without standing,body on the floor and still for 2 s,R07 R08 R09 R19 R20 R21 R22 R35 R36
+E7,event,Fall from sitting on the edge,first loss of balance while sitting on the edge,body on the floor and still for 2 s,R25 R26 R33 R34
+F1,event,Fall backwards after a step,"Sitting on the exit-side edge, stands, one step away from the bed, turns to face the camera, loses balance backwards: lands sitting, then on the back, knees up.",,R41 R42
+F2,event,Trip and fall forward,"Walks along the exit side towards the head end, 0.8 m from the bed, trips at the third step and falls forward, face down.",,R43 R44
+F3,event,Fast roll out of bed,"Lying near the non-exit edge, a fast roll over that edge; lands on the right side between the bed and the table, head beside the table.",,R45 R46
+F4,event,Slide off the edge to the floor,"Sitting on the exit-side edge, slides forward slowly, then the legs give way: ends sitting on the floor against the bed side, legs out.",,R47 R48
+F5,event,Knees give way beside the bed,"Standing beside the bed at its head end (exit side), the knees give way: kneels, then tips onto the right side, curled, close to the bed.",,R49 R50
+L1,look-alike,Turn onto the side in bed,,,R10
+L7,look-alike,Sit on the edge then lie back down,,,R27 R28 R37 R38
+L9,look-alike,Quick sit-down on a chair,Sits down quickly on a chair beside the bed; no fall.,,R29 R30 R39 R40
+L10,look-alike,Blanket slides to the floor,Patient in bed under a blanket moves her legs; the blanket slides off the exit side and stays on the floor.,,R51 R52
+L11,look-alike,Visitor leaves a bag on the floor,"Visitor walks in from the door side, puts a bag on the floor beside the bed (exit side), walks out.",,R53 R54
+L12,look-alike,Sits on a chair,"Sitting on the edge, stands, walks to the chair at the head end, pulls it along the bed, turns and sits on it.",,R55 R56
+L13,look-alike,Nurse kneels beside an occupied bed,"Nurse walks in, kneels on the floor beside the bed for about 3 s reaching to the floor, stands, walks out; the patient stays in bed.",,R57 R58
+L14,look-alike,Puts on slippers,"Sitting on the edge, bends down for about 3 s to put on slippers (feet on or near the floor), sits up; never leaves the bed.",,R59 R60
+L15,look-alike,Walks out of view,"Gets out of bed (from lying) and walks out of view towards the door; the bed is left empty, nothing on the floor.",,R61 R62

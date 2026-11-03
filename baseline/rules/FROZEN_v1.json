@@ -1,0 +1,15 @@
+{
+ "version": "v1",
+ "frozen_utc": "2026-10-19T07:25:25+00:00",
+ "note": "Frozen before any pose output existed for a test clip.",
+ "sha256": {
+  "rules_v1.md": "51043acce712159e1f2a862e5ac7e19f08c3e8dec23ecfb391169e720452f5a3",
+  "rules_v1.json": "bf20648bc056240414d1142d17ba4ae72b4579341fefce9c6d5b8c7d06175ea2",
+  "posture_rules.py": "3cf9e59dbe46645a71c0a5532da5c39f9648e9eaec83c5e17f125509a3859716",
+  "score.py": "09604d7aaa71cff0622f7d09d4fb6a4e7ff0091b0f72605c61dc1af9207789c5",
+  "build_labels.py": "b5315b413bbe37ab9bf52f25e3b87c0304143336b968182639d042f9a6cb7dd8",
+  "labels_v1.csv": "004895825bd31dc775157645837255d5ff5099f930fbfe19d676651b5fe1394d",
+  "labels_v1_warnings.txt": "19e4e65de2b4c388c163e87827b078ca600f1dab134e3221a944661f5d9c8e89",
+  "test_posture_rules.py": "afe3714be2af44d6de109e37cd87e694fefe07bbfeca014d253408ba4966cc8c"
+ }
+}

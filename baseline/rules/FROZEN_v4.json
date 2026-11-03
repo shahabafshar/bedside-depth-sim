@@ -1,0 +1,14 @@
+{
+ "version": "v4",
+ "frozen_utc": "2026-10-19T21:23:38+00:00",
+ "note": "Frozen before the fresh renders (R23 onwards) existed. (Note text corrected at 21:25 UTC; the script had written v1's note. Checksums and time unchanged.)",
+ "sha256": {
+  "rules_v4.md": "f6c290c3a37e19d4c54f5ff54f73e3ffeb0644c364f11a707ec89124ca0547e4",
+  "rules_v4.json": "25a943211a1ad2985fe52e8c4978d4b65b9a0e46465c7c79f0c42dcf4eeee931",
+  "posture_rules_v4.py": "a5bfff905067e153a39b940c8ca246acc678f7798dbc76d5c65a22eae23b174e",
+  "test_posture_rules_v4.py": "78c46f0d0acc793ec0fd77b000b2a9fa4aa7aaa65587435f9e88068290cedb6f",
+  "posture_rules_v3.py": "7b68d076f4a3f0d06671c9769674c3d14bf728e263cb939acea650fc8ec81617",
+  "test_posture_rules_v3.py": "39f0a9923154ff46560c7d3b85227276f0b2102b56b4c415b5fbf6bf1a0f343f",
+  "posture_rules.py": "3cf9e59dbe46645a71c0a5532da5c39f9648e9eaec83c5e17f125509a3859716"
+ }
+}

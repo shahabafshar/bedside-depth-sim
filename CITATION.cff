@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Bedside Depth Simulations: rendered bed exits, falls and look-alikes seen by a depth camera in front of a hospital bed"
+version: "1.0"
+# TO BE CONFIRMED before publishing: authors (with ORCID and affiliation) and date-released.
+authors:
+  - name: "TO BE CONFIRMED"
+doi: 10.5281/zenodo.23926720
+url: "https://doi.org/10.5281/zenodo.23926720"
+repository-code: "https://github.com/shahabafshar/bedside-depth-sim"
+license:
+  - CC-BY-4.0
+  - Apache-2.0
+  - GPL-3.0-or-later
+keywords:
+  - bed exit
+  - fall detection
+  - depth camera
+  - synthetic data
+  - hospital
+  - patient monitoring
+  - pose estimation
+  - Blender
+  - AI-generated video
+abstract: >-
+  62 rendered clips of a hospital patient sitting up, leaving the bed, falling (eight kinds) or making
+  look-alike movements, seen by a virtual depth camera on the wall in front of the bed with the fields of
+  view of a Luxonis OAK-D Pro W. Each clip has a colour video, a grey infrared-like video, a 16-bit depth
+  image per frame, exact event times, per-frame 3D body points with visibility flags, and the camera's
+  calibration; 22 clips also have the empty room's depth. Includes locked baseline detection rules, their
+  results, and the Blender pipeline that made the clips. A second part holds 52 AI-generated hospital
+  videos from the same camera position (Wan 2.2, Veo 3.1 Fast, Seedance 2.0) and the 12 generated start
+  pictures they begin from (Seedream 5.0 Pro), released as made under their own licence.

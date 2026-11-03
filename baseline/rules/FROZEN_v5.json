@@ -1,0 +1,15 @@
+{
+ "version": "v5",
+ "frozen_utc": "2026-10-20T01:19:35+00:00",
+ "note": "Frozen before any test clip for plan step S4 existed; designed on made-up scenes only.",
+ "sha256": {
+  "rules_v5.md": "725fa58ed598f1500bc94cd6aa61e84f167cdd46b4dde5b5d6fade32281f779f",
+  "rules_v5.json": "a9b4c5745c97e441ab01edf3bd88d11802cf55b9ee2cfdb39350281f04bb9bae",
+  "posture_rules_v5.py": "c84b4079c56d0fca25672dd576ba084648a9ac2ee3d236c5e76039d4bc02920a",
+  "test_posture_rules_v5.py": "1ea9b97845e619cf200cb5134d62810ec1e4fc8f22c4d2597c00141040d4ce4e",
+  "posture_rules_v4.py": "a5bfff905067e153a39b940c8ca246acc678f7798dbc76d5c65a22eae23b174e",
+  "posture_rules_v3.py": "7b68d076f4a3f0d06671c9769674c3d14bf728e263cb939acea650fc8ec81617",
+  "test_posture_rules_v3.py": "39f0a9923154ff46560c7d3b85227276f0b2102b56b4c415b5fbf6bf1a0f343f",
+  "posture_rules.py": "3cf9e59dbe46645a71c0a5532da5c39f9648e9eaec83c5e17f125509a3859716"
+ }
+}

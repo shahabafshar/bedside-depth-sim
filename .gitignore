@@ -1,0 +1,8 @@
+# The clips live in the Zenodo archive, not in git
+data/
+__pycache__/
+# Made when the Blender pipeline runs
+code/render/_work/
+code/render/logs/
+code/render/*.blend
+code/render/*.blend1

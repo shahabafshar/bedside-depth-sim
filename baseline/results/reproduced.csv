@@ -1,0 +1,63 @@
+clip,v3,v4,v4_fall,v5_fall,v5_fall_path,v5_alert_s
+R01,sit_up,sit_up,0,,,
+R02,sit_up,sit_up,0,,,
+R03,sit_up,sit_up,0,,,
+R04,sit_up stand_up,sit_up stand_up,0,,,
+R05,sit_up stand_up,sit_up stand_up,0,,,
+R06,sit_up stand_up,sit_up stand_up,0,,,
+R07,none,fall,1,,,
+R08,none,fall,1,,,
+R09,none,fall,1,,,
+R10,none,none,0,,,
+R11,sit_up,sit_up,0,,,
+R12,sit_up,sit_up,0,,,
+R13,none,none,0,,,
+R14,none,none,0,,,
+R15,sit_up stand_up,sit_up stand_up,0,,,
+R16,sit_up stand_up,sit_up stand_up,0,,,
+R17,stand_up,stand_up,0,,,
+R18,none,none,0,,,
+R19,none,fall,1,,,
+R20,none,fall,1,,,
+R21,none,none,0,,,
+R22,none,none,0,,,
+R23,stand_up,fall stand_up,1,,,
+R24,stand_up,stand_up,0,,,
+R25,none,none,0,,,
+R26,none,none,0,,,
+R27,none,none,0,,,
+R28,none,none,0,,,
+R29,none,none,0,,,
+R30,none,none,0,,,
+R31,stand_up,stand_up,0,,,
+R32,stand_up,stand_up,0,,,
+R33,none,none,0,,,
+R34,none,none,0,,,
+R35,none,fall,1,,,
+R36,none,none,0,,,
+R37,none,none,0,,,
+R38,none,none,0,,,
+R39,none,none,0,,,
+R40,none,none,0,,,
+R41,stand_up,fall stand_up,1,1,drop+floor,6.067
+R42,stand_up,stand_up,0,1,floor,7.467
+R43,fall,fall,1,1,drop+floor,2.8
+R44,fall,fall,1,1,drop+floor,2.733
+R45,none,fall,1,1,drop+floor,2.067
+R46,none,none,0,1,floor,3.6
+R47,none,fall,1,1,drop+floor,2.933
+R48,fall,fall,1,1,drop+floor,2.933
+R49,none,none,0,1,floor,3.333
+R50,none,none,0,1,floor,3.2
+R51,none,none,0,0,,
+R52,none,none,0,0,,
+R53,none,none,0,0,,
+R54,none,none,0,0,,
+R55,stand_up,stand_up,0,0,,
+R56,stand_up,stand_up,0,0,,
+R57,none,none,0,0,,
+R58,none,none,0,1,floor,5.867
+R59,sit_up,sit_up,0,0,,
+R60,none,none,0,0,,
+R61,sit_up stand_up,sit_up stand_up,0,0,,
+R62,sit_up stand_up,sit_up stand_up,0,0,,
