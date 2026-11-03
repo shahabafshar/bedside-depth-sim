@@ -9,9 +9,9 @@ Answers to the questions of "Datasheets for Datasets" (Gebru et al., Communicati
 - **The gap:** of the 53 public datasets we checked, none shows real patients leaving hospital beds from this camera position.
 - **Why simulation:** it gives exact event times, exact 3D body positions and exact depth, which recorded video cannot give.
 
-**Who created it, and on whose behalf?** TO BE CONFIRMED.
+**Who created it, and on whose behalf?** Shahabeddin Afsharghoochani (Iowa State University; ORCID 0009-0000-3682-0471), as an open research resource.
 
-**Who funded its creation?** TO BE CONFIRMED.
+**Who funded its creation?** No external funding.
 
 ## Composition
 
@@ -156,7 +156,7 @@ The clips are few, from one room and two bodies, with ideal depth.
 
 ## Maintenance
 
-**Who maintains it, and how can they be contacted?** TO BE CONFIRMED.
+**Who maintains it, and how can they be contacted?** Shahabeddin Afsharghoochani, through the issues of https://github.com/shahabafshar/bedside-depth-sim.
 
 **Will it be updated?**
 - **Errors:** corrections will be published as new versions on Zenodo, each with its own DOI, and listed in `CHANGELOG.md`.

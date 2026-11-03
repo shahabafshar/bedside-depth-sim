@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0 (TO BE CONFIRMED: release date)
+## 1.0 (2026-11-03)
 
 First public release: 62 rendered clips (R01 to R62) with metadata, ground truth, the locked baseline rules, their body points and results, and the Blender pipeline.
 

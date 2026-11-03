@@ -10,8 +10,6 @@
 
 The dataset also includes simple detection rules as a baseline, with their results.
 
-> **Release status:** prepared, not yet published. The DOI is reserved and becomes active when the Zenodo record is published. Authors and affiliation are marked TO BE CONFIRMED.
-
 ![Bedside Depth Simulations at a glance](docs/media/cover.png)
 
 ## Why this dataset
@@ -192,11 +190,11 @@ The services that made the AI-generated files have their own terms; none of them
 
 If you use this dataset, please cite it:
 
-> TO BE CONFIRMED (2026). *Bedside Depth Simulations: rendered bed exits, falls and look-alikes seen by a depth camera in front of a hospital bed* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23926720
+> Afsharghoochani, S. (2026). *Bedside Depth Simulations: rendered bed exits, falls and look-alikes seen by a depth camera in front of a hospital bed* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23926720
 
 ```bibtex
-@dataset{bedside_depth_sim_2026,
-  author    = {TO BE CONFIRMED},
+@dataset{afsharghoochani_2026_bedside,
+  author    = {Afsharghoochani, Shahabeddin},
   title     = {Bedside Depth Simulations: rendered bed exits, falls and look-alikes seen by a depth camera in front of a hospital bed},
   year      = {2026},
   version   = {1.0},
@@ -226,4 +224,4 @@ Tools and models used to make or score the data:
 
 ## Contact
 
-Questions and corrections: open an issue on this repository. TO BE CONFIRMED: a contact address.
+Shahabeddin Afsharghoochani, Iowa State University ([ORCID 0009-0000-3682-0471](https://orcid.org/0009-0000-3682-0471)). Questions and corrections: please open an issue on this repository.

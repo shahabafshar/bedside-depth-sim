@@ -3,9 +3,12 @@ message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "Bedside Depth Simulations: rendered bed exits, falls and look-alikes seen by a depth camera in front of a hospital bed"
 version: "1.0"
-# TO BE CONFIRMED before publishing: authors (with ORCID and affiliation) and date-released.
 authors:
-  - name: "TO BE CONFIRMED"
+  - family-names: Afsharghoochani
+    given-names: Shahabeddin
+    affiliation: Iowa State University
+    orcid: "https://orcid.org/0009-0000-3682-0471"
+date-released: "2026-11-03"
 doi: 10.5281/zenodo.23926720
 url: "https://doi.org/10.5281/zenodo.23926720"
 repository-code: "https://github.com/shahabafshar/bedside-depth-sim"
