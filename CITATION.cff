@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite it as below."
+message: "Citation required: if you use this dataset, you must cite it as below (the credit required under its CC BY 4.0 licence)."
 type: dataset
 title: "Bedside Depth Simulations: rendered bed exits, falls and look-alikes seen by a depth camera in front of a hospital bed"
 version: "1.0"

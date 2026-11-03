@@ -10,6 +10,8 @@
 
 The dataset also includes simple detection rules as a baseline, with their results.
 
+**Citation required.** The dataset is free to use under CC BY 4.0, which requires credit to its creator in the manner the creator asks. The credit required is a citation of this dataset (see [Citation](#citation)) in any publication, presentation, product or shared copy that uses it.
+
 ![Bedside Depth Simulations at a glance](docs/media/cover.png)
 
 ## Why this dataset
@@ -180,7 +182,7 @@ Testing and comparing methods that detect bed exit, standing and falls from a ca
 
 ## Licence
 
-- **Data, both parts** (`data/`, `metadata/`, `baseline/body_points/`, `baseline/results/`, the documentation): [Creative Commons Attribution 4.0 International](LICENSE). You may use, share and adapt it for any purpose, including commercially, as long as you give credit by citing the dataset. When you use the AI-generated files, also say that they are AI-generated and which model made them (`metadata/generated_videos.csv`).
+- **Data, both parts** (`data/`, `metadata/`, `baseline/body_points/`, `baseline/results/`, the documentation): [Creative Commons Attribution 4.0 International](LICENSE). You may use, share and adapt it for any purpose, including commercially. **Credit is required, and the required form of credit is a citation of this dataset** (below), in any publication, presentation, product or shared copy that uses it. When you use the AI-generated files, also say that they are AI-generated and which model made them (`metadata/generated_videos.csv`).
 - **Code** (`code/load_clip.py`, `baseline/`): [Apache License 2.0](LICENSE-CODE).
 - **The Blender pipeline** (`code/render/`): [GNU GPL 3.0 or later](code/render/LICENSE), because Blender's licence asks that published scripts using its Python API be GPL-compliant.
 
@@ -188,7 +190,7 @@ The services that made the AI-generated files have their own terms; none of them
 
 ## Citation
 
-If you use this dataset, please cite it:
+**If you use this dataset, you must cite it:**
 
 > Afsharghoochani, S. (2026). *Bedside Depth Simulations: rendered bed exits, falls and look-alikes seen by a depth camera in front of a hospital bed* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23926720
 
